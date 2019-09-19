@@ -1,0 +1,19 @@
+{
+  "name": "bl3-vip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "fluture": "^11.0.3",
+    "folktale": "^2.3.2",
+    "ramda": "^0.26.1",
+    "request": "^2.88.0",
+    "request-fluture": "^2.0.0"
+  }
+}
